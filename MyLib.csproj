@@ -49,6 +49,9 @@
     <Compile Include="Axis.Designer.cs">
       <DependentUpon>Axis.cs</DependentUpon>
     </Compile>
+    <Compile Include="Classes\CoordinateAxes.cs" />
+    <Compile Include="Enums\EAxisType.cs" />
+    <Compile Include="Enums\EPixType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
